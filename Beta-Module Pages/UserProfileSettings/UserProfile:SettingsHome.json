@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "appearance": {
+      "title": "Edit Display Appearance",
+      "textSize": "Text Size",
+      "contrast": "Contrast",
+      "darkMode": "Light/Dark Mode",
+      "previewText": "Preview changes",
+      "resetButton": "Default style"
+    },
+    "home": {
+      "account": "Account",
+      "privacySecurity": "Privacy & Security",
+      "languagePreferences": "Language Preferences",
+      "appearance": "Appearance",
+      "comingSoon": "Coming Soon",
+      "logoutPrompt": "Need to logout of your account?",
+      "logout": "Log out"
+    }
+  }
+}

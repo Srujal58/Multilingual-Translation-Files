@@ -1,0 +1,12 @@
+{
+  "singlePlaylist": {
+    "sections": {
+      "Videos": "Videos",
+      "Audio": "Audio",
+      "Text": "Text"
+    },
+    "link": {
+      "more": "more"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Parental Control",
+  "enableParentalControls": "Enable Parental Controls",
+  "manageRestrictionsTitle": "Manage Restrictions",
+  "manageRestrictionsSubtitle": "Confirm your password to make changes",
+  "passwordFieldLabel": "Password",
+  "createOrResetPassword": "Create or reset password",
+  "nextButton": "Next",
+  "fetchSettingsError": "Failed to fetch settings",
+  "saveSettingsError": "Failed to save settings"
+}
+

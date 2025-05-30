@@ -1,0 +1,17 @@
+{
+  "profileSettings": {
+    "title": "Profiles",
+    "subtitle": "Profile Information",
+    "editDisplayInfo": "Edit Display Information",
+    "profileImage": "Profile Image",
+    "displayPublicly": "Display Publicly",
+    "name": "Name",
+    "namePlaceholder": "Add a name",
+    "birthday": "Birthday",
+    "bio": "Note/Bio",
+    "bioPlaceholder": "Add a note",
+    "displayName": "Display name on profile",
+    "displayBirthday": "Display birthday on profile",
+    "displayBio": "Display bio on profile"
+  }
+}

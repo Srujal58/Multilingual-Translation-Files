@@ -1,0 +1,12 @@
+{
+  "thirdPartyAccounts": {
+    "title": "Link 3rd Party Accounts",
+    "linkedAccounts": "Linked accounts",
+    "edit": "Edit",
+    "addMore": "Add More",
+    "addMoreTitle": "Add More Accounts",
+    "addMoreNote": "Don’t see a platform in our system?",
+    "sendMessage": "Send a message to our system",
+    "link": "Link"
+  }
+}

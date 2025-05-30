@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "language": {
+      "title": "Default Language",
+      "dropdownTitle": "Default Language",
+      "dropdownText": "Select your default language upon logging in.",
+      "options": {
+        "en": "English (US)",
+        "es": "Spanish",
+        "fr": "French"
+      }
+    }
+  }
+}

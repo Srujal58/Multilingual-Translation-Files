@@ -1,0 +1,27 @@
+{
+  "subtitlePreference": {
+    "title": "Subtitle Preference",
+    "general": "General",
+    "alwaysShowSubtitles": "Always show subtitles",
+    "alwaysShowSubtitlesDesc": "Automatically show subtitles for all videos",
+    "alwaysPlayDubbedAudio": "Always play dubbed audio",
+    "alwaysPlayDubbedAudioDesc": "Automatically play dubbed audio when available",
+    "subtitleStyle": "Subtitle Style",
+    "textColor": "Text color",
+    "fontStyle": "Font Style",
+    "fontSize": "Font size",
+    "backgroundColor": "Background color",
+    "preview": "Preview",
+    "fontOptions": {
+      "sansSerif": "Sans Serif",
+      "arial": "Arial",
+      "monospace": "Monospace",
+      "systemUi": "System-ui"
+    },
+    "fontSizes": {
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large"
+    }
+  }
+}

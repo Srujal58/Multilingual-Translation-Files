@@ -1,0 +1,23 @@
+{
+  "loginSecurity": {
+    "title": "Login & Security",
+    "subtitle": "Manage your login credentials and account security",
+    "email": {
+      "title": "Email Address",
+      "value": "example@domain.com"
+    },
+    "password": {
+      "title": "Password",
+      "value": "********"
+    },
+    "2fa": {
+      "title": "Two-Factor Authentication",
+      "value": "Enabled"
+    },
+    "edit": "Edit",
+    "deleteAccount": "Delete Account",
+    "deleteConfirmation": "Are you sure you want to delete your account?",
+    "yes": "Yes",
+    "no": "No"
+  }
+}

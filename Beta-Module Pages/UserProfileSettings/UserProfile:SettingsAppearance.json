@@ -1,0 +1,9 @@
+{
+  "title": "Edit Display Appearance",
+  "textSize": "Text Size",
+  "contrast": "Contrast",
+  "lightDarkMode": "Light/Dark Mode",
+  "previewText": "Preview changes",
+  "resetButton": "Default style",
+  "alertSaved": "Changes saved successfully"
+}

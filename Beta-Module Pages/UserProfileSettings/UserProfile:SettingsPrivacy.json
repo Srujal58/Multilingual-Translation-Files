@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "privacy": {
+      "visibility": {
+        "title": "Privacy Settings",
+        "editButton": "Edit",
+        "saveButton": "Save",
+        "successMessage": "Privacy settings updated successfully."
+      },
+      "password": {
+        "title": "Change Password",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password",
+        "confirmNewPassword": "Confirm New Password",
+        "showPassword": "Show Password",
+        "hidePassword": "Hide Password",
+        "submitButton": "Update Password",
+        "successMessage": "Password Updated Successfully!",
+        "errorOldPassword": "The current password is incorrect.",
+        "validation": {
+          "required": "This field is required",
+          "minLength": "Password must be at least 8 characters",
+          "match": "Passwords must match"
+        }
+      }
+    }
+  }
+}

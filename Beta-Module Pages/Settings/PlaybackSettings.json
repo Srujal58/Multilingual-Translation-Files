@@ -1,0 +1,29 @@
+{
+  "title": "Playback Settings",
+  "autoplaySection": "Autoplay",
+  "videoQualitySection": "Video Quality",
+
+  "autoplayNextEpisode": "Autoplay Next Episode",
+  "autoplayNextEpisodeDesc": "Automatically plays the next episode in a series when the current one finishes",
+
+  "autoplayVideoPreviews": "Autoplay Video Previews",
+  "autoplayVideoPreviewsDesc": "Automatically plays short video previews while browsing the app",
+
+  "qualityAuto": "Auto",
+  "qualityAutoDesc": "Adjust Based on Network",
+
+  "quality480p": "480p",
+  "quality480pDesc": "Standard Definition (SD) medium quality",
+
+  "quality720p": "720p",
+  "quality720pDesc": "High Definition (HD) quality",
+
+  "quality1080p": "1080p",
+  "quality1080pDesc": "Full HD quality",
+
+  "quality4k": "4K (Ultra HD)",
+  "quality4kDesc": "Ultra-High Definition",
+
+  "fetchSettingsError": "Failed to fetch settings",
+  "saveSettingsError": "Failed to save settings"
+}

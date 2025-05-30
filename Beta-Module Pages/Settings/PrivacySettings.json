@@ -1,0 +1,15 @@
+{
+  "title": "Privacy and Data",
+
+  "adsTitle": "Ads",
+  "adsDescription": "You may see ads based on general factors, such as the topic of the video. For more information on how ads work, including specifics for family accounts with children, please visit our Help Center.",
+
+  "locationTrackingTitle": "Location Tracking",
+  "locationTrackingDescription": "Location tracking allows us to provide location-specific content and recommendations. You may receive tailored suggestions based on your geographic location. For more details on our location tracking policy, please refer to our Privacy Policy.",
+
+  "relevantContentTitle": "Use Data to Generate Relevant Content",
+  "relevantContentDescription": "We utilize your viewing history and preferences to generate personalized content recommendations. This helps enhance your experience by suggesting shows and movies that align with your interests. For further information on data usage, consult our Privacy Policy.",
+
+  "fetchSettingsError": "Failed to fetch settings",
+  "updateSettingsError": "Failed to update settings"
+}
